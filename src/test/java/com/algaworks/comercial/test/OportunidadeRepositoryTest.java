@@ -1,4 +1,4 @@
-package com.algaworks.comercial.test.repository;
+package com.algaworks.comercial.test;
 
 import static org.junit.Assert.assertEquals;
 
